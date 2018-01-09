@@ -3,5 +3,9 @@ Create a new branch is quick AND simple
 =======
 Create a new branch is quick AND simple
 >>>>>>> feature1
-df sd
-DF 
+<<<<<<< HEAD
+=======
+df 
+djfk
+DJKFJ 
+>>>>>>> c3a682ca1d6b52fb97adfd314e4c4ce4fa3760e8
